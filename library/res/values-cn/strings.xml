@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright 2015 Square, Inc. -->
+
+<resources>
+  <string name="invalid_date">选择的日期必须在%1$s和%2$s之间</string>
+</resources>
